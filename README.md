@@ -23,6 +23,10 @@ The `notebooks/analyze-local-police-data.ipynb` notebook, written in Python, tak
 
 Note: To reproduce the findings, you'll need to unzip the `inputs/offenses-standardized.csv.zip` file before running the notebook.
 
+## Data Disclaimer
+
+The data in this repository is a standardization of raw data that police departments provided to The Trace and BuzzFeed News in response to a public records request. We have carefully checked the accuracy of our analysis, and shared our findings with the respective agencies and numerous experts in the law enforcement field prior to publication. We are sharing our data, methodology, and code in order to support further research and reporting on gun violence. However, users of this data may wish to independently verify the accuracy of their findings prior to making them public, as The Trace and Buzzfeed make no representations or warranties as to any third party use of this data.
+
 ## Licensing
 
 All code in this repository is available under the [MIT License](https://opensource.org/licenses/MIT). All data files are available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
